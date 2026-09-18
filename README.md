@@ -1,16 +1,59 @@
-## Hi there 👋
+# Hi, I'm Sughanthan 👋
 
-<!--
-**sughanthans-tech/sughanthans-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Electronics & Communication Engineering Undergraduate**
+💻 Learning Programming & Electronics
+🔬 Aspiring **VLSI Engineer**
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🎓 Currently pursuing my undergraduate degree in **Electronics & Communication Engineering (ECE)**
+* 🔧 Interested in **VLSI Design, Digital Electronics, and Semiconductor Technology**
+* 🌱 Currently building my fundamentals in programming and electronics
+* 🎯 My goal is to become a **VLSI Engineer**
+* 🚀 Always looking to learn, build, and improve
+
+## 🛠️ Skills
+
+### Programming
+
+* 🐍 Python — Basic
+* ⚙️ C — Basic
+* 💻 C++ — Basic
+
+### Core Knowledge
+
+* 🗄️ DBMS — Basic
+* 🔌 Electronics & Digital Electronics — Learning
+
+## 🔬 Areas I'm Interested In
+
+* VLSI Design
+* Digital Electronics
+* Verilog / HDL
+* RTL Design
+* FPGA
+* Semiconductor Technology
+* Computer Architecture
+
+## 📚 Currently Learning
+
+* Strengthening C/C++ fundamentals
+* Improving Python
+* Digital Electronics
+* Data Structures & Algorithms
+* VLSI fundamentals
+* Verilog HDL
+
+## 🎯 Career Goal
+
+> **To build a strong foundation in electronics and digital design and eventually pursue a career as a VLSI Engineer.**
+
+## 📫 Connect With Me
+
+* GitHub: [sughanthans-tech](https://github.com/)
+* LinkedIn: [Sughanthan S](https://www.linkedin.com/)
+
+---
+
+⭐ *Learning today, designing tomorrow.*
+
