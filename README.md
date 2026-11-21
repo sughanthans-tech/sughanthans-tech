@@ -52,6 +52,7 @@
 
 * GitHub: [sughanthans-tech](https://github.com/)
 * LinkedIn: [Sughanthan S](https://www.linkedin.com/)
+* LeetCode: [Sughanthan_S](https://leetcode.com/u/Sughanthan_S/)
 
 ---
 
